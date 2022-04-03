@@ -4,7 +4,7 @@
 Este é um projeto de estudos, onde será feita um modelo de machine learning usando técnicas de NLP para estudo e aprendizado destas. 
 
 ## 1. Problema
-O site da IMBd possui resenhas do público sobre diversos filmes, com classificações positivas ou negativas. Assim, usando técnicas de NLP é possível desenvolver um algoritmo que analise as resenhas e realize uma comparação com a classificação dada pelos usuários consiga identificar se a resenha é uma resenha positiva ou negativa. 
+O site da IMBd possui resenhas do público sobre diversos filmes, com classificações positivas ou negativas. Assim, usando técnicas de NLP é possível desenvolver um algoritmo que analise as resenhas e realize uma comparação com a classificação dada pelos usuários e assim consiga identificar se a resenha é uma resenha positiva ou negativa. 
 
 ## 2. Técnicas Usadas:
 
