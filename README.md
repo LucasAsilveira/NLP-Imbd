@@ -47,13 +47,20 @@ Com isto obteve-se um resultado de 79,63 de acertividade no modelo final com o u
 
 ### 4.0 Resultados
 
-##### 4.1 Comparação dos resultados após cada tratamento:
+##### 4.1 Tabela com resultados após cada tratamento:
 
-![image](https://user-images.githubusercontent.com/94136773/161434122-6abed4aa-f1ac-45e9-b01a-418160a94d23.png)
+Na tabela a baixo, conseguimos melhorar uma acertividade de 75.32%, com o modelo sem nenhum tratamento para uma acertividade de 79,56% após realizar todos os tratamentos. Com isto tivemos uma melhora de 4,25% no modelo apenas realizando tratamentos nos textos das resenhas.  
+
+![image](https://user-images.githubusercontent.com/94136773/161434221-e13c1741-955c-49fc-9494-a9ef38b315af.png)
 
 
 
 
+##### 4.2 Tabela com resultados com diferentes técnicas de vetorização:
+
+Ao implementar técnicas de vetorização mais sofisticadas ao nosso modelo, não conseguiu-se uma melhor significativa. Analisando a tabela a baixo, percebe-se que utilizando a técnica TF-IDF o resultado foi de 0,01% inferior, ao utilizar o Ngram conseguimos uma melhora de 0,08%
+
+![image](https://user-images.githubusercontent.com/94136773/161434438-32558962-803f-4af2-a409-d9f532f3f217.png)
 
 
 
