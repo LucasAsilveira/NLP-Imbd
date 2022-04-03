@@ -2,6 +2,7 @@
 
 ## Introdução
 Este é um projeto de estudos, onde será feita um modelo de machine learning usando técnicas de NLP para estudo e aprendizado destas. 
+Os dados utilizado neste projeto podem ser baixados neste [link](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr), que será redirecionado para o site do Kaggle. Estes não foram colocados no repositório pois excedem o limite permitido pelo o github. 
 
 ## 1. Problema
 O site da IMBd possui resenhas do público sobre diversos filmes, com classificações positivas ou negativas. Assim, usando técnicas de NLP é possível desenvolver um algoritmo que analise as resenhas e realize uma comparação com a classificação dada pelos usuários e assim consiga identificar se a resenha é uma resenha positiva ou negativa. 
